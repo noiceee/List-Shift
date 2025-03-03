@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.list {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+h2 {
+  margin: 0;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+button {
+  padding: 5px 10px;
+}
