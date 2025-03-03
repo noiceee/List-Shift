@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/list-shift/static/css/main.16e80ee7.css",
+    "main.js": "/list-shift/static/js/main.b214871b.js",
+    "index.html": "/list-shift/index.html",
+    "main.16e80ee7.css.map": "/list-shift/static/css/main.16e80ee7.css.map",
+    "main.b214871b.js.map": "/list-shift/static/js/main.b214871b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16e80ee7.css",
+    "static/js/main.b214871b.js"
+  ]
+}
